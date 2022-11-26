@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285172446692']
-global.ownernomer = "6285172446692"
-global.premium = ['6285172446692']
-global.packname = 'Sticker By'
-global.author = 'Sad-Bot'
+global.owner = ['6285845969519']
+global.ownernomer = "6285845969519"
+global.premium = ['6285845969519']
+global.packname = 'Sticker By Fyuu'
+global.author = 'Fyuu Villain'
 global.sessionName = 'session'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -36,7 +36,7 @@ global.mess = {
     success: '✅Selesai',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa / Chat Owner',
+    premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa / Chat Owner Cuma 5K',
     owner: 'Fitur Khusus Owner Bot',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
@@ -65,9 +65,9 @@ global.myytv = ''
 global.mygc = ""
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'SAD BOT'
-global.akulaku = 'Bot By Papah'
-global.ytname = 'YT PAPAH' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'FyuuBotz'
+global.akulaku = 'Bot By Fyuu'
+global.ytname = 'YT Fyuu Mondok' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
